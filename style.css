@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.menuItem {
+    @apply text-red-400 font-bold text-xl
+}
