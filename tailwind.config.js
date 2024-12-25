@@ -9,7 +9,8 @@ module.exports = {
       colors: {
         primary:"#3ce1c6",
         secondary:"#D6B1FF",
-        addition: "8C30F5"
+        addition: "8C30F5",
+        background: "F4F5F7"
       },
       fontSize: {
         h1:["72px","48px"],
@@ -25,8 +26,10 @@ module.exports = {
       },
       fontFamily:{
         roboto:"Roboto"
+      },
+      screens:{
+        
       }
-    
     },
   },
   variants: {
